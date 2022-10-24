@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Front-end**
 
-- 👨‍💻 My current profile https://twx-a.github.io/profile/
+- 👨‍💻 My current profile https://twx-a.github.io/portfolio/
 
 - 🔭 I’m currently working on: Updating my profile.
 
