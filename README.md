@@ -13,7 +13,6 @@
 
 - 🔭 I’m currently working on: Updating my profile.
 
-- Check my <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> progress here: <a href="https://codesandbox.io/u/twx-a" target="_blank" rel="noreferrer" />codesandbox.io</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
