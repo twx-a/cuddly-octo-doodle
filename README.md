@@ -11,7 +11,7 @@
 
 - 👨‍💻 My current profile https://twx-a.github.io/portfolio/
 
-- 🔭 I’m currently working on: Updating my profile.
+- 🔭 I’m currently working on: Updating my profile. Plans: To add react spring.
 
 
 <h3 align="left">Connect with me:</h3>
