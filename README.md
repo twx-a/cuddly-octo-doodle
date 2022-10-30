@@ -8,14 +8,12 @@
 
 - 👨‍💻 My current profile https://twx-a.github.io/portfolio/
 
-- 🔭 I’m currently working on: Updating my profile. Plans: To add react spring.
+- 🔭 I’m currently working on: UI-UX Design
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/twxa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/twxa/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/twx_alfred" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="twx_alfred" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/twx-a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="twx-a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Most used languages:</h3>
