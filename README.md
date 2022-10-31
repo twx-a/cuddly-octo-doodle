@@ -8,7 +8,7 @@
 
 - 👨‍💻 My current profile https://twx-a.github.io/portfolio/
 
-- 🔭 I’m currently working on: UI-UX Design
+- 🔭 I’m currently working on: Futher enhancing my portfolio and knowledge about React.
 
 
 <h3 align="left">Connect with me:</h3>
@@ -22,6 +22,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twx-a&label=Profile%20views&color=0e75b6&style=flat" alt="twx-a" /> </p>
 
 <h3 align="left">Description about myself:</h3>
-<p align="left"> Audio Engineer/Video Technician with strong experience in the media industry. </p>
-<p align="left">In the midst of interfacing with digital technologies, I gained a strong interest in software development, and aspire to be part of an integral community that brings about waves of changes! </p>
+<p>Audio Engineer/Video Technician with varying experience in the media industry</p>
+<p>Whilst interfacing with digital technologies, I gained a strong interest in software development, and decided to make a bold move and start from the front-end side of development! </p>
 
