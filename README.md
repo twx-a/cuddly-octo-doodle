@@ -22,6 +22,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twx-a&label=Profile%20views&color=0e75b6&style=flat" alt="twx-a" /> </p>
 
 <h3 align="left">Description about myself:</h3>
-<p>Audio Engineer/Video Technician with varying experience in the media industry</p>
+<p>Ex-Audio Engineer/Video Technician</p>
 <p>Highly motivated and detail-oriented junior front-end developer with experience in software support. Proficient in front end development and design principles. Skilled in troubleshooting and problem-solving, with a passion for creating user-friendly web applications.</p>
 
