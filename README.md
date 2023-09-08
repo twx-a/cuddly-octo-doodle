@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alfred</h1>
-<h3 align="center">A junior front-end developer</h3>
+<h3 align="center">A junior software developer</h3>
 
 
 - 📫 How to reach me **twx.alfred@gmail.com**
 
-- 💬 Ask me about **Front-end**
+- 💬 Ask me about **React or Java**
 
 - 👨‍💻 My current profile https://twx-a.github.io/portfolio/
 
-- 🔭 I’m currently working on: Futher enhancing my portfolio and knowledge about React.
+- 🔭 I’m currently working on: a Custom X(Formerly known as Twitter)/Reddit-like social website with responsive views and design. Planned go-live: Dec 2023
 
 
 <h3 align="left">Connect with me:</h3>
@@ -23,5 +23,5 @@
 
 <h3 align="left">Description about myself:</h3>
 <p>Ex-Audio Engineer/Video Technician</p>
-<p>Highly motivated and detail-oriented junior software developer with experience in software support. Proficient in front end development and design principles. Skilled in troubleshooting and problem-solving, with a passion for creating user-friendly web applications.</p>
+<p>Highly motivated and detail-oriented junior software developer with experience in software support. Proficient in front-end development and design principles. Skilled in troubleshooting and problem-solving, with a passion for creating user-friendly web applications. If you have come this far, thanks for reading! Have a good day :)</p>
 
