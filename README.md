@@ -4,11 +4,11 @@
 
 - 📫 How to reach me **twx.alfred@gmail.com**
 
-- 💬 Ask me about **React or Java**
+- 💬 Ask me about **React**
 
 - 👨‍💻 My current profile https://twx-a.github.io/portfolio/
 
-- 🔭 I’m currently working on: a Custom X(Formerly known as Twitter)/Reddit-like social website with responsive views and design. Planned go-live: Dec 2023
+- 🔭 I’m currently working on: a Custom X(Formerly known as Twitter)/Reddit-like social website with responsive views and design. Planned go-live: Dec 2023.
 
 
 <h3 align="left">Connect with me:</h3>
