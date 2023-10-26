@@ -24,4 +24,4 @@
 <h3 align="left">Description about myself:</h3>
 <p>Ex-Audio Engineer/Video Technician</p>
 <p>Highly motivated and detail-oriented junior software developer with experience in software support. Proficient in front-end development and design principles. Skilled in troubleshooting and problem-solving, with a passion for creating user-friendly web applications. If you have come this far, thanks for reading! Have a good day :)</p>
-
+<p>Currently learning react redux!</p>
